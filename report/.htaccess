@@ -1,0 +1,8 @@
+
+
+
+RewriteEngine On
+RewriteRule ^regis-export$    register_export.php  [L]
+RewriteRule ^regis-export-bill$    register_export_bill.php  [L]
+
+
